@@ -1,6 +1,4 @@
-from logging import exception
-from shutil import ExecError
-from unicodedata import name
+
 from PIL import Image
 from pytesseract import image_to_string
 from gtts import gTTS
