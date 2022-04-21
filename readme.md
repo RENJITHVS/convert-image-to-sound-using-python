@@ -11,8 +11,8 @@ Getting started
 In order to use this code, firstly clone the repo using **git** or download the zip file manually
 
 ```bash
-$-> git clone https://github.com/Kalebu/image-to-sound-python-
-$->cd image-to-sound-python-
+$-> git clone https://github.com/RENJITHVS/image-to-sound-using-python
+$->cd image-to-sound-using-python
 $ image-to-sound-python--> python app.py
 ```
 
