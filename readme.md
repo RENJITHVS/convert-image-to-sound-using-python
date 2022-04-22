@@ -11,9 +11,9 @@ Getting started
 In order to use this code, firstly clone the repo using **git** or download the zip file manually
 
 ```bash
-$-> git clone https://github.com/RENJITHVS/image-to-sound-using-python
-$->cd image-to-sound-using-python
-$ image-to-sound-python--> python app.py
+$-> git clone https://github.com/RENJITHVS/convert-image-to-sound-using-python
+$->cd convert-image-to-sound-using-python
+$ convert-image-to-sound-python--> python app.py
 ```
 
 Dependancies 
