@@ -23,3 +23,5 @@ image = get_image("image.png")
 
 print(image[0])
 print(image.shape)
+
+#Code from https://stackoverflow.com/questions/138250/how-to-read-the-rgb-value-of-a-given-pixel-in-python
