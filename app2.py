@@ -19,7 +19,7 @@ def get_image(image_path):
     return pixel_values
 
 
-image = get_image("image.png")
+image = get_image("1080x1080-image2.png")
 
 print(image[0])
 print(image.shape)
