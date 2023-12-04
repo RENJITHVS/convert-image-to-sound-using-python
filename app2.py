@@ -36,6 +36,6 @@ def sort_and_save_image(image_path, output_path):
 
 
 # Example usage
-input_image_path = "1080x1080-image4.png"
-output_image_path = "sorted_image4.png"
+input_image_path = "1080x1080.image5.png"
+output_image_path = "sorted_image5.png"
 sort_and_save_image(input_image_path, output_image_path)
